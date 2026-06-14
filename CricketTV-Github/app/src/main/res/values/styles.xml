@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main App Theme: full screen, no title bar -->
+    <style name="AppTheme" parent="@style/Theme.Leanback">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:colorPrimary">#FF6B00</item>
+        <item name="android:colorPrimaryDark">#CC5500</item>
+        <item name="android:colorAccent">#FF6B00</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- Splash Theme -->
+    <style name="SplashTheme" parent="@style/Theme.Leanback">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">#0A0A0A</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

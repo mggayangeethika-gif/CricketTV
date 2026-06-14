@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Live Cricket TV</string>
+    <string name="exit_title">Exit</string>
+    <string name="exit_message">Exit Live Cricket TV?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_internet">No internet connection.\nPlease check your network and try again.</string>
+    <string name="reload_hint">Press MENU to reload</string>
+</resources>
